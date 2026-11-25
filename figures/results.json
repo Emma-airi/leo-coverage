@@ -1,0 +1,83 @@
+{
+  "footprint_half_angle_deg": 15.466472926874614,
+  "london_baseline": {
+    "mean_in_view": 10.193402777777777,
+    "min_in_view": 5,
+    "max_in_view": 14,
+    "percent_time_covered": 100.0,
+    "mean_best_elevation_deg": 65.5829603826526
+  },
+  "inclination_sweep": {
+    "80": {
+      "mean_in_view": 10.644097222222221,
+      "min_in_view": 3,
+      "max_in_view": 20,
+      "percent_time_covered": 100.0,
+      "mean_best_elevation_deg": 65.90456935553975
+    },
+    "82": {
+      "mean_in_view": 10.450347222222222,
+      "min_in_view": 3,
+      "max_in_view": 19,
+      "percent_time_covered": 100.0,
+      "mean_best_elevation_deg": 65.9122733958278
+    },
+    "84": {
+      "mean_in_view": 10.326736111111112,
+      "min_in_view": 4,
+      "max_in_view": 17,
+      "percent_time_covered": 100.0,
+      "mean_best_elevation_deg": 65.84225447765044
+    },
+    "86": {
+      "mean_in_view": 10.232986111111112,
+      "min_in_view": 5,
+      "max_in_view": 16,
+      "percent_time_covered": 100.0,
+      "mean_best_elevation_deg": 65.72274897442001
+    },
+    "88": {
+      "mean_in_view": 10.196875,
+      "min_in_view": 5,
+      "max_in_view": 14,
+      "percent_time_covered": 100.0,
+      "mean_best_elevation_deg": 65.5767909020801
+    },
+    "90": {
+      "mean_in_view": 10.177430555555556,
+      "min_in_view": 6,
+      "max_in_view": 13,
+      "percent_time_covered": 100.0,
+      "mean_best_elevation_deg": 65.42725892808882
+    },
+    "92": {
+      "mean_in_view": 10.205902777777778,
+      "min_in_view": 5,
+      "max_in_view": 14,
+      "percent_time_covered": 100.0,
+      "mean_best_elevation_deg": 65.30431299176574
+    },
+    "94": {
+      "mean_in_view": 10.259375,
+      "min_in_view": 5,
+      "max_in_view": 16,
+      "percent_time_covered": 100.0,
+      "mean_best_elevation_deg": 65.2016196783167
+    },
+    "96": {
+      "mean_in_view": 10.35625,
+      "min_in_view": 4,
+      "max_in_view": 17,
+      "percent_time_covered": 100.0,
+      "mean_best_elevation_deg": 65.08189290157819
+    },
+    "98": {
+      "mean_in_view": 10.497916666666667,
+      "min_in_view": 3,
+      "max_in_view": 18,
+      "percent_time_covered": 100.0,
+      "mean_best_elevation_deg": 64.97116262808254
+    }
+  },
+  "global_snapshot_percent_covered": 100.0
+}
